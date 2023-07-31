@@ -24,7 +24,7 @@ func fibonnaci(posicao uint) uint {
 
 func main() {
 
-	posicao := uint(45)
+	posicao := uint(50)
 	fmt.Println(fibonnaci(posicao))
 
 }
